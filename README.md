@@ -100,8 +100,8 @@ Based on the **EWB Cloud Labs - AWS Architect Associate Project 01** curriculum.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your GitHub repository URL>
-   cd aws-vpc-peering-lab/terraform
+   git clone https://github.com/0-Aman/AWS-_VPC-_peering-_lab-_project.git
+   cd AWS-_VPC-_peering-_lab-_project/terraform
    ```
 
 2. **Configure variables:**
