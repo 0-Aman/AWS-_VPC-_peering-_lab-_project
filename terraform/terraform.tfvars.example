@@ -1,0 +1,5 @@
+aws_region       = "ap-south-1"
+availability_zone = "ap-south-1a"
+key_name         = "ewb-lab"
+admin_source_ip  = "203.0.113.10/32"
+enable_peering   = false

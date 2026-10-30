@@ -1,0 +1,28 @@
+# Private keys and credentials - NEVER commit to git
+*.pem
+*.key
+*.id_rsa
+*.id_ed25519
+.env
+aws_credentials
+credentials.csv
+
+# Terraform files
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+!terraform.tfvars.example
+.terraform/
+terraform.rc
+*.plan
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
